@@ -1,3 +1,11 @@
+---
+title: markmap
+markmap:
+  colorFreezeLevel: 2
+  color: "#e626cdff"
+---
+
+
 # Proyecto Casa Rural Tarragona
 
 ## Presupuesto
@@ -20,4 +28,4 @@
 
 ## Referencias
 
-- <img src="https://example.com/diagrama.svg" width="250" height="150">
+- <img src="https://raw.githubusercontent.com/nat711/img/de0ff645f74c271dec4ad0e17ed15009ac03e24b/gantt.svg" width="200" height="auto">
