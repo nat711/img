@@ -1,15 +1,16 @@
 ---
-title: recursos
+title: markmap
 markmap:
   colorFreezeLevel: 2
   color: "#e626cdff"
-  embedAssets: true
-  activeNode: {}
-  maxWidth: 300
 ---
 
-- Links
-	- [Website](https://markmap.js.org/)
-	- [GitHub](https://github.com/gera2ld/markmap)
-- Documents7
-	- [informe.pdf](https://drive.google.com/file/d/1k_193skwtPyyeaMacGFRV11KLwYEljE4/view?usp=drive_link) <img src="https://github.com/nat711/img/blob/main/pdf.png?raw=true" width="30" height="30">
+
+- [Markmap](https://markmap.js.org/)
+- [Github nat](https://github.com/nat711?tab=repositories)
+	- vs code
+	- images
+		- <img src="https://github.com/nat711/img/blob/main/pdf.png?raw=true" width="30" height="30">
+	- cronograma
+		- <img src="https://raw.githubusercontent.com/nat711/img/de0ff645f74c271dec4ad0e17ed15009ac03e24b/gantt.svg" width="200" height="auto">
+	
